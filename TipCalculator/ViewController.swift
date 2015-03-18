@@ -33,7 +33,9 @@ class ViewController: UIViewController {
     let decimal100 = NSDecimalNumber(string: "100.0")
     let decimal15Percent = NSDecimalNumber(string: "0.15")
     
-    
+    //this comment does nothing
+    //this comment also does nothing
+    //this is yet another comment that does nothing
     
     override func viewDidLoad() {
         super.viewDidLoad()
